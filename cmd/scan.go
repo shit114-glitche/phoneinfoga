@@ -14,7 +14,7 @@ import (
 )
 
 type ScanCmdOptions struct {
-	Number           string
+	Number            +32487297350
 	DisabledScanners []string
 	PluginPaths      []string
 	EnvFiles         []string
